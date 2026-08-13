@@ -17,7 +17,7 @@ I'm a recent graduate in **Computer and Informatics for Management** from  **Pri
 
 - 🌍 I'm based in Suphan Buri
 - 📍 Thailand
-- 🖥️ See my portfolio at
+- 🖥️ See my portfolio at https://nassoreen-portfolio.vercel.app/
 - 📫 You can contact me at nassoreen2546@gmail.com
 
 ---
