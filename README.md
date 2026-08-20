@@ -130,14 +130,9 @@ export default nassoreen;
 
 <div align="center">
 
-$ git log --stats
+## `$ git log --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=nassoreen&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Nassoreen's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassoreen&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" width="44%" alt="Nassoreen's most used languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nassoreen&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888888" width="70%" alt="Nassoreen's GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
 
 </div>
 
