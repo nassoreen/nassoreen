@@ -49,7 +49,6 @@ const nassoreen = {
   role: "Full Stack Developer",
   degree: "B.Sc. in Computer and Informatics for Management",
   university: "Prince of Songkla University",
-  graduation: "2026",
   focus: [
     "Full-Stack Web Development",
     "Backend APIs",
@@ -62,7 +61,6 @@ const nassoreen = {
     "Completed a Web Developer internship at PSU",
     "Created full-stack web applications",
   ],
-  status: "Open to junior developer opportunities",
 };
 
 export default nassoreen;
