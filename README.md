@@ -99,19 +99,19 @@ export default nassoreen;
 ```
 // Backend & API Frameworks
 ```
-<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark&perline=4" alt="Node.js, Express, Django, and FastAPI" />
 
 <!-- Frontend -->
 ```
 // Frontend & UI
 ```
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css&theme=dark&perline=6" alt="React, Vite, Tailwind CSS, Bootstrap, HTML, and CSS" />
 
 <!-- Databases -->
 ```
 // Databases
 ```
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" alt="PostgreSQL, MySQL, and MongoDB" />
 
 <!-- Cloud & DevOps -->
 ```
@@ -151,7 +151,7 @@ export default nassoreen;
 <br/>
 
 ```
-> console.log("I don't just write code — I architect digital experiences that scale.");
+> console.log("Turning ideas into practical web ");
 ```
 
 <br/>
