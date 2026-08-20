@@ -132,17 +132,7 @@ export default nassoreen;
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB METRICS ░░░░░░░░░░░░░░░░░░░░ -->
 
-<div align="center">
 
-## `$ git log --stats`
-
-<img
-  src="https://streak-stats.demolab.com/?user=nassoreen&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888888"
-  width="65%"
-  alt="Nassoreen's GitHub contribution streak"
-/>
-
-</div>
 
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
