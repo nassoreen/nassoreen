@@ -113,9 +113,9 @@ export default nassoreen;
 ```
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" alt="PostgreSQL, MySQL, and MongoDB" />
 
-<!-- Cloud & DevOps -->
+<!-- Tools & Deployment -->
 ```
-// Cloud · DevOps · Media
+// Tools · DevOps · Deployment
 ```
 <img src="https://skillicons.dev/icons?i=firebase,docker,git,github,postman,vercel&theme=dark&perline=6" />
 
