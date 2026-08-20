@@ -136,7 +136,7 @@ export default nassoreen;
 
 ## `$ git log --stats`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nassoreen&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
 
 </div>
 
