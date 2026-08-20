@@ -113,21 +113,16 @@ export default nassoreen;
 ```
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" alt="PostgreSQL, MySQL, and MongoDB" />
 
-<!-- Cloud & DevOps -->
+<!-- Tools & Deployment -->
 ```
-// Cloud · DevOps · Media
+// Tools · DevOps · Deployment
 ```
-<img src="https://skillicons.dev/icons?i=firebase,docker,git,github,postman,vercel&theme=dark&perline=6" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,vscode&theme=dark&perline=6" /> 
+<br/> 
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" /> 
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
+</div> 
 
 ---
 
@@ -135,9 +130,14 @@ export default nassoreen;
 
 <div align="center">
 
-## `$ git log --stats`
+$ git log --stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nassoreen&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Nassoreen's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassoreen&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" width="44%" alt="Nassoreen's most used languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nassoreen&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888888" width="70%" alt="Nassoreen's GitHub contribution streak" />
 
 </div>
 
