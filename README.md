@@ -113,16 +113,21 @@ export default nassoreen;
 ```
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" alt="PostgreSQL, MySQL, and MongoDB" />
 
-<!-- Tools & Deployment -->
+<!-- Cloud & DevOps -->
 ```
-// Tools · DevOps · Deployment
+// Cloud · DevOps · Media
 ```
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,vscode&theme=dark&perline=6" /> 
-<br/> 
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" /> 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-</div> 
+<img src="https://skillicons.dev/icons?i=firebase,docker,git,github,postman,vercel&theme=dark&perline=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+</div>
 
 ---
 
